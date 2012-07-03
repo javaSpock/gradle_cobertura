@@ -4,7 +4,7 @@
 		module="gradle_cobertura"
 		revision="1.2"
 		status="integration"
-		publication="20120427102508"
+		publication="20120702213448"
 	/>
 	<configurations>
 		<conf name="archives" visibility="public" description="Configuration for archive artifacts."/>
